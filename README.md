@@ -6,5 +6,5 @@
 - The dataset for this model comprises of two Haarcascades xml files,<a href="https://forms.illinois.edu/sec/1713398">Frontal_face_haarcascade</a> for face and <a href="https://forms.illinois.edu/sec/1713398">smile_haarcascade</a> for smile.
 - The sample output is shown below : 
 - <p align="center">
-  <img src="OUTPUT/IMG 1.png" width="85%" title="SMILE DETECTION" alt="SAMPLE OUTPUT">
+  <img src="https://github.com/NAVANEETHELITE/SMILE_DETECTOR/blob/main/SMILE%20DETECTOR/OUTPUT/IMG%201.png" width="85%" title="SMILE DETECTION" alt="SAMPLE OUTPUT">
 </p>
